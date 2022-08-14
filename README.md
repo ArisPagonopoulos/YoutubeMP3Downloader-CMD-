@@ -6,3 +6,5 @@ Instructions:\
 1)Type the song you want to download\
 2)You will be prompted with the first three youtube search results. Choose one of them, or press 0 if you want to see more options\
 3)Your file will be downloaded and saved in your desktop inside the mp3downloads folder.
+
+![](https://github.com/ArisPagonopoulos/YoutubeMP3Downloader-CMD-/blob/main/demo.gif)
